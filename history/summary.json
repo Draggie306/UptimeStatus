@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/repl1.ibaguette.com",
     "slug": "baguette-brigaders-helper",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "93.94%",
+    "uptimeDay": "93.94%",
+    "uptimeWeek": "93.94%",
+    "uptimeMonth": "93.94%",
+    "uptimeYear": "93.94%",
     "time": 418,
     "timeDay": 418,
     "timeWeek": 418,
     "timeMonth": 418,
     "timeYear": 418,
     "dailyMinutesDown": {
-      "2022-09-10": 0
+      "2022-09-10": 35
     }
   }
 ]
