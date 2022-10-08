@@ -7,7 +7,7 @@ sites:
     url: https://www.ibaguette.com
     icon: https://www.ibaguette.com/favicon.ico
   - name: BaguetteBrigadersHelper
-    url: https://repl1.ibaguette.com
+    url: https://brigaders-stats.ibaguette.com
   #- name: CuisineBotHelper
   #  url: https://cuisinebot.ibaguette.com
   #- name: BaguetteBotHelper
