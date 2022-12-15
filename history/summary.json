@@ -24,7 +24,7 @@
     "url": "https://brigaders-stats.ibaguette.com",
     "icon": "https://icons.duckduckgo.com/ip3/brigaders-stats.ibaguette.com.ico",
     "slug": "baguette-brigaders-helper",
-    "status": "up",
+    "status": "down",
     "uptime": "93.19%",
     "uptimeDay": "98.53%",
     "uptimeWeek": "96.46%",
@@ -32,7 +32,7 @@
     "uptimeYear": "93.19%",
     "time": 3723,
     "timeDay": 6598,
-    "timeWeek": 3444,
+    "timeWeek": 3546,
     "timeMonth": 3968,
     "timeYear": 3723,
     "dailyMinutesDown": {
