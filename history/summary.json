@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 559,
-    "timeDay": 664,
-    "timeWeek": 482,
-    "timeMonth": 509,
-    "timeYear": 559,
+    "time": 558,
+    "timeDay": 371,
+    "timeWeek": 479,
+    "timeMonth": 510,
+    "timeYear": 558,
     "dailyMinutesDown": {
       "2023-02-24": 27,
       "2022-10-13": 18
@@ -27,17 +27,16 @@
     "slug": "baguette-brigaders-helper",
     "status": "up",
     "uptime": "98.36%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "98.54%",
-    "uptimeMonth": "99.10%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "98.36%",
-    "time": 3571,
-    "timeDay": 1097,
-    "timeWeek": 2248,
-    "timeMonth": 3685,
-    "timeYear": 3571,
+    "time": 3565,
+    "timeDay": 960,
+    "timeWeek": 536,
+    "timeMonth": 3790,
+    "timeYear": 3565,
     "dailyMinutesDown": {
-      "2023-04-30": 13,
       "2023-04-27": 55,
       "2023-04-23": 79,
       "2023-04-12": 32,
@@ -107,7 +106,8 @@
       "2022-10-26": 19,
       "2022-10-24": 261,
       "2022-10-23": 27,
-      "2022-10-22": 21
+      "2022-10-22": 21,
+      "2022-10-19": 22
     }
   }
 ]
