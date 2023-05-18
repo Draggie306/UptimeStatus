@@ -25,17 +25,17 @@
     "url": "https://brigaders-stats.ibaguette.com",
     "icon": "https://icons.duckduckgo.com/ip3/brigaders-stats.ibaguette.com.ico",
     "slug": "baguette-brigaders-helper",
-    "status": "up",
-    "uptime": "98.47%",
+    "status": "down",
+    "uptime": "98.54%",
     "uptimeDay": "98.91%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.56%",
-    "uptimeYear": "98.47%",
-    "time": 3478,
-    "timeDay": 526,
-    "timeWeek": 1143,
-    "timeMonth": 1978,
-    "timeYear": 3478,
+    "uptimeYear": "98.54%",
+    "time": 3509,
+    "timeDay": 8069,
+    "timeWeek": 2978,
+    "timeMonth": 2402,
+    "timeYear": 3509,
     "dailyMinutesDown": {
       "2023-05-18": 16,
       "2023-05-10": 26,
@@ -107,7 +107,7 @@
       "2022-10-31": 37,
       "2022-10-27": 121,
       "2022-10-26": 19,
-      "2022-10-24": 261
+      "2022-10-24": 23
     }
   }
 ]
