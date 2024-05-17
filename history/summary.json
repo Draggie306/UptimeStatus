@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 268,
-    "timeDay": 146,
-    "timeWeek": 113,
+    "time": 267,
+    "timeDay": 126,
+    "timeWeek": 119,
     "timeMonth": 143,
-    "timeYear": 170,
+    "timeYear": 168,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/brigaders-stats.ibaguette.com.ico",
     "slug": "baguette-brigaders-helper",
     "status": "down",
-    "uptime": "76.38%",
+    "uptime": "76.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "61.10%",
-    "time": 2074,
+    "uptimeYear": "60.82%",
+    "time": 2077,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1858,
+    "timeYear": 1862,
     "dailyMinutesDown": {
-      "2024-05-16": 52,
+      "2024-05-17": 52,
+      "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
@@ -194,8 +195,7 @@
       "2023-06-23": 7,
       "2023-06-05": 789,
       "2023-06-04": 163,
-      "2023-05-24": 33,
-      "2023-05-18": 136
+      "2023-05-24": 33
     }
   }
 ]
