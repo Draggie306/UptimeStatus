@@ -6,8 +6,28 @@ sites:
   - name: "iBaguette.com Main Site"
     url: https://www.ibaguette.com
     icon: https://www.ibaguette.com/favicon.ico
-  - name: BaguetteBrigadersHelper
+  - name: "iBaguette.com Cheat Sheets"
+    url: https://ibaguette.com/cheatsheets
+  - name: "iBaguette Stories"
+    url: https://stories.ibaguette.com
+  - name: "iBaguette Study"
+    url: https://study.ibaguette.com
+  - name: "Baguette Brigade Helper bot"
     url: https://brigaders-stats.ibaguette.com
+  - name: "Draggie Games: Website"
+    url: https://alpha.draggiegames.com
+  - name: "Draggie Games: Authentication services"
+    url: https://client.draggie.games
+  - name: "Draggie Games: Game download CDN"
+    url: https://draggiegames-content-library-euwest0002-prod.draggie.games/tools_test.txt
+  - name: "Draggie Games: On-demand content"
+    url: https://assets.draggie.games/tools_test.txt
+  - name: "geog.uk: Homepage"
+    url: https://geog.uk
+  - name: "geog.uk: Homepage"
+    url: https://geog.uk
+  - name: "oling.dev: Homepage"
+    url: https://oling.dev
   #- name: CuisineBotHelper
   #  url: https://cuisinebot.ibaguette.com
   #- name: BaguetteBotHelper
@@ -16,11 +36,11 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.mon.ibaguette.com
+  cname: status.ibaguette.com
   # baseUrl: /UptimeStatus
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: iBaguette Services | Upptime
-  introTitle: "Here are the current iBaguette services and their statuses."
+  introTitle: "Here are the current statuses for many major, public services on iBaguette's infrastructure."
   introMessage: "Welcome to the iBaguette Service Monitor"
   theme: dark
   navbar:
