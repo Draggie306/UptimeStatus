@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-11": 834,
+      "2025-07-11": 840,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
@@ -143,7 +143,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-11": 834,
+      "2025-07-11": 840,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
@@ -301,19 +301,19 @@
     "url": "https://geog.uk",
     "icon": "https://icons.duckduckgo.com/ip3/geog.uk.ico",
     "slug": "geog-uk-homepage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 137,
-    "timeDay": 159,
-    "timeWeek": 138,
-    "timeMonth": 139,
-    "timeYear": 137,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 139,
+    "timeDay": 213,
+    "timeWeek": 152,
+    "timeMonth": 142,
+    "timeYear": 139,
     "dailyMinutesDown": {
-      "2025-07-11": 0
+      "2025-07-11": 7
     }
   },
   {
@@ -321,19 +321,19 @@
     "url": "https://geog.uk",
     "icon": "https://icons.duckduckgo.com/ip3/geog.uk.ico",
     "slug": "geog-uk-homepage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 137,
-    "timeDay": 159,
-    "timeWeek": 138,
-    "timeMonth": 139,
-    "timeYear": 137,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 139,
+    "timeDay": 213,
+    "timeWeek": 152,
+    "timeMonth": 142,
+    "timeYear": 139,
     "dailyMinutesDown": {
-      "2025-07-11": 0
+      "2025-07-11": 7
     }
   },
   {
@@ -353,7 +353,7 @@
     "timeMonth": 145,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2025-07-11": 834,
+      "2025-07-11": 841,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
