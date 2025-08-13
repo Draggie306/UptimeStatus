@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-13": 1167,
+      "2025-08-13": 1177,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
@@ -176,7 +176,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-13": 1167,
+      "2025-08-13": 1177,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
@@ -350,19 +350,19 @@
     "url": "https://assets.draggie.games/tools_test.txt",
     "icon": "https://icons.duckduckgo.com/ip3/assets.draggie.games.ico",
     "slug": "draggie-games-on-demand-content",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 435,
-    "timeDay": 389,
-    "timeWeek": 426,
-    "timeMonth": 420,
-    "timeYear": 435,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 438,
+    "timeDay": 496,
+    "timeWeek": 457,
+    "timeMonth": 429,
+    "timeYear": 438,
     "dailyMinutesDown": {
-      "2025-08-13": 0
+      "2025-08-13": 10
     }
   },
   {
@@ -382,7 +382,7 @@
     "timeMonth": 90,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2025-08-13": 1168,
+      "2025-08-13": 1177,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
@@ -435,7 +435,7 @@
     "timeMonth": 90,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2025-08-13": 1168,
+      "2025-08-13": 1177,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
@@ -488,7 +488,7 @@
     "timeMonth": 146,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2025-08-13": 1168,
+      "2025-08-13": 1177,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
