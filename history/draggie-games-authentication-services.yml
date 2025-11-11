@@ -1,7 +1,7 @@
 url: https://client.draggie.games
-status: up
-code: 200
-responseTime: 588
-lastUpdated: 2025-11-10T23:21:13.147Z
+status: down
+code: 502
+responseTime: 413
+lastUpdated: 2025-11-11T09:51:50.555Z
 startTime: 2025-05-23T11:42:26.809Z
 generator: Upptime <https://github.com/upptime/upptime>
