@@ -27,18 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ibaguette.com.ico",
     "slug": "i-baguette-com-cheat-sheets",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 239,
     "timeDay": 102,
     "timeWeek": 186,
     "timeMonth": 190,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2025-11-18": 7
+      "2025-11-18": 14
     }
   },
   {
@@ -46,19 +46,19 @@
     "url": "https://stories.ibaguette.com",
     "icon": "https://icons.duckduckgo.com/ip3/stories.ibaguette.com.ico",
     "slug": "i-baguette-stories",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 237,
-    "timeDay": 202,
-    "timeWeek": 233,
+    "time": 236,
+    "timeDay": 196,
+    "timeWeek": 228,
     "timeMonth": 194,
-    "timeYear": 237,
+    "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 7
     }
   },
   {
@@ -78,7 +78,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 706,
+      "2025-11-18": 713,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -277,7 +277,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 706,
+      "2025-11-18": 713,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -466,18 +466,16 @@
     "slug": "draggie-games-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
     "timeDay": 154,
     "timeWeek": 190,
     "timeMonth": 209,
     "timeYear": 211,
-    "dailyMinutesDown": {
-      "2025-11-18": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Draggie Games: Authentication services",
@@ -486,9 +484,9 @@
     "slug": "draggie-games-authentication-services",
     "status": "up",
     "uptime": "88.44%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "96.53%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "96.55%",
     "uptimeYear": "88.44%",
     "time": 662,
     "timeDay": 497,
@@ -496,7 +494,6 @@
     "timeMonth": 690,
     "timeYear": 662,
     "dailyMinutesDown": {
-      "2025-11-18": 7,
       "2025-11-12": 24,
       "2025-11-11": 51,
       "2025-11-07": 1350,
@@ -539,19 +536,19 @@
     "url": "https://draggiegames-content-library-euwest0002-prod.draggie.games/tools_test.txt",
     "icon": "https://icons.duckduckgo.com/ip3/draggiegames-content-library-euwest0002-prod.draggie.games.ico",
     "slug": "draggie-games-game-download-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 298,
-    "timeDay": 326,
-    "timeWeek": 277,
+    "timeDay": 310,
+    "timeWeek": 275,
     "timeMonth": 291,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2025-11-18": 7,
+      "2025-11-18": 0,
       "2025-08-14": 16
     }
   },
@@ -561,18 +558,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.draggie.games.ico",
     "slug": "draggie-games-on-demand-content",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 449,
     "timeDay": 286,
     "timeWeek": 401,
     "timeMonth": 463,
     "timeYear": 449,
     "dailyMinutesDown": {
-      "2025-11-18": 7
+      "2025-11-18": 14
     }
   },
   {
@@ -592,7 +589,7 @@
     "timeMonth": 96,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2025-11-18": 706,
+      "2025-11-18": 713,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -742,7 +739,7 @@
     "timeMonth": 96,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2025-11-18": 706,
+      "2025-11-18": 713,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -892,7 +889,7 @@
     "timeMonth": 165,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2025-11-18": 706,
+      "2025-11-18": 713,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
