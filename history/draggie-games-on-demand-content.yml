@@ -1,7 +1,7 @@
 url: https://assets.draggie.games/tools_test.txt
-status: down
-code: 500
-responseTime: 125
-lastUpdated: 2025-11-18T11:38:57.169Z
+status: up
+code: 200
+responseTime: 219
+lastUpdated: 2025-11-18T14:42:27.663Z
 startTime: 2025-05-23T11:43:59.036Z
 generator: Upptime <https://github.com/upptime/upptime>
