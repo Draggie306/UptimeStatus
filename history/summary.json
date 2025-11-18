@@ -27,19 +27,19 @@
     "url": "https://ibaguette.com/cheatsheets",
     "icon": "https://icons.duckduckgo.com/ip3/ibaguette.com.ico",
     "slug": "i-baguette-com-cheat-sheets",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "87.25%",
-    "uptimeWeek": "98.18%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.93%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "85.48%",
+    "uptimeWeek": "97.93%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.92%",
     "time": 238,
-    "timeDay": 132,
-    "timeWeek": 181,
-    "timeMonth": 189,
+    "timeDay": 136,
+    "timeWeek": 178,
+    "timeMonth": 188,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2025-11-18": 183
+      "2025-11-18": 209
     }
   },
   {
@@ -47,19 +47,19 @@
     "url": "https://stories.ibaguette.com",
     "icon": "https://icons.duckduckgo.com/ip3/stories.ibaguette.com.ico",
     "slug": "i-baguette-stories",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "88.67%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.94%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "86.90%",
+    "uptimeWeek": "98.13%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.93%",
     "time": 235,
-    "timeDay": 184,
-    "timeWeek": 214,
+    "timeDay": 181,
+    "timeWeek": 210,
     "timeMonth": 192,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-11-18": 163
+      "2025-11-18": 189
     }
   },
   {
@@ -79,7 +79,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 899,
+      "2025-11-18": 925,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -278,7 +278,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 899,
+      "2025-11-18": 925,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -593,7 +593,7 @@
     "timeMonth": 96,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2025-11-18": 900,
+      "2025-11-18": 925,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -743,7 +743,7 @@
     "timeMonth": 96,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2025-11-18": 900,
+      "2025-11-18": 925,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -893,7 +893,7 @@
     "timeMonth": 165,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2025-11-18": 900,
+      "2025-11-18": 925,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
