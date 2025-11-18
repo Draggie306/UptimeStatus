@@ -27,19 +27,19 @@
     "url": "https://ibaguette.com/cheatsheets",
     "icon": "https://icons.duckduckgo.com/ip3/ibaguette.com.ico",
     "slug": "i-baguette-com-cheat-sheets",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "85.47%",
-    "uptimeWeek": "97.92%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.92%",
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "83.91%",
+    "uptimeWeek": "97.70%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.91%",
     "time": 238,
-    "timeDay": 146,
-    "timeWeek": 180,
-    "timeMonth": 188,
+    "timeDay": 176,
+    "timeWeek": 193,
+    "timeMonth": 192,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2025-11-18": 209
+      "2025-11-18": 232
     }
   },
   {
@@ -79,7 +79,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 989,
+      "2025-11-18": 1011,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -278,7 +278,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 989,
+      "2025-11-18": 1012,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -488,12 +488,12 @@
     "status": "up",
     "uptime": "88.39%",
     "uptimeDay": "88.68%",
-    "uptimeWeek": "97.98%",
+    "uptimeWeek": "98.15%",
     "uptimeMonth": "96.17%",
     "uptimeYear": "88.39%",
     "time": 659,
     "timeDay": 448,
-    "timeWeek": 770,
+    "timeWeek": 776,
     "timeMonth": 676,
     "timeYear": 659,
     "dailyMinutesDown": {
@@ -593,7 +593,7 @@
     "timeMonth": 96,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2025-11-18": 989,
+      "2025-11-18": 1012,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -743,7 +743,7 @@
     "timeMonth": 96,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2025-11-18": 989,
+      "2025-11-18": 1012,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -893,7 +893,7 @@
     "timeMonth": 165,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2025-11-18": 989,
+      "2025-11-18": 1012,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
