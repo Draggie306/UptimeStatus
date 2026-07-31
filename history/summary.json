@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 156,
-    "timeDay": 275,
-    "timeWeek": 166,
+    "timeDay": 94,
+    "timeWeek": 165,
     "timeMonth": 115,
-    "timeYear": 153,
+    "timeYear": 152,
     "dailyMinutesDown": {
       "2025-11-18": 163
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 190,
-    "timeDay": 263,
-    "timeWeek": 150,
-    "timeMonth": 127,
+    "time": 189,
+    "timeDay": 104,
+    "timeWeek": 149,
+    "timeMonth": 126,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2025-11-18": 232,
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 203,
-    "timeDay": 417,
-    "timeWeek": 203,
-    "timeMonth": 166,
+    "timeDay": 255,
+    "timeWeek": 225,
+    "timeMonth": 168,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2025-11-18": 189,
@@ -70,7 +70,7 @@
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -78,7 +78,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-30": 119,
+      "2026-07-31": 144,
+      "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
@@ -441,8 +442,7 @@
       "2025-08-04": 1440,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
-      "2025-08-01": 1440,
-      "2025-07-31": 1440
+      "2025-08-01": 1440
     }
   },
   {
@@ -451,15 +451,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/brigaders-stats.ibaguette.com.ico",
     "slug": "baguette-brigade-helper-bot",
     "status": "up",
-    "uptime": "54.59%",
+    "uptime": "54.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.47%",
-    "uptimeYear": "64.70%",
+    "uptimeYear": "64.98%",
     "time": 393,
-    "timeDay": 696,
-    "timeWeek": 444,
-    "timeMonth": 372,
+    "timeDay": 475,
+    "timeWeek": 468,
+    "timeMonth": 375,
     "timeYear": 393,
     "dailyMinutesDown": {
       "2025-12-03": 715,
@@ -587,7 +587,6 @@
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
-      "2025-07-31": 1440,
       "2026-02-11": 45,
       "2026-02-27": 389,
       "2026-03-07": 25,
@@ -618,8 +617,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 198,
-    "timeDay": 227,
-    "timeWeek": 188,
+    "timeDay": 153,
+    "timeWeek": 186,
     "timeMonth": 153,
     "timeYear": 199,
     "dailyMinutesDown": {
@@ -632,16 +631,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/client.draggie.games.ico",
     "slug": "draggie-games-authentication-services",
     "status": "up",
-    "uptime": "94.23%",
+    "uptime": "94.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.48%",
     "uptimeYear": "98.52%",
     "time": 615,
-    "timeDay": 738,
-    "timeWeek": 607,
-    "timeMonth": 507,
-    "timeYear": 603,
+    "timeDay": 450,
+    "timeWeek": 612,
+    "timeMonth": 505,
+    "timeYear": 602,
     "dailyMinutesDown": {
       "2025-08-13": 36,
       "2025-08-31": 39,
@@ -684,10 +683,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 258,
-    "timeDay": 157,
-    "timeWeek": 239,
-    "timeMonth": 207,
-    "timeYear": 252,
+    "timeDay": 164,
+    "timeWeek": 234,
+    "timeMonth": 206,
+    "timeYear": 251,
     "dailyMinutesDown": {
       "2025-08-14": 16,
       "2025-11-18": 180
@@ -705,10 +704,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 421,
-    "timeDay": 912,
-    "timeWeek": 536,
-    "timeMonth": 439,
-    "timeYear": 419,
+    "timeDay": 243,
+    "timeWeek": 523,
+    "timeMonth": 432,
+    "timeYear": 418,
     "dailyMinutesDown": {
       "2025-11-18": 184
     }
@@ -719,15 +718,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/geog.uk.ico",
     "slug": "geog-uk-homepage",
     "status": "up",
-    "uptime": "30.99%",
+    "uptime": "31.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "23.24%",
-    "time": 123,
-    "timeDay": 265,
-    "timeWeek": 177,
-    "timeMonth": 147,
+    "uptimeYear": "23.52%",
+    "time": 122,
+    "timeDay": 68,
+    "timeWeek": 176,
+    "timeMonth": 144,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2026-05-06": 375,
@@ -1008,8 +1007,7 @@
       "2025-08-04": 1440,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
-      "2025-08-01": 1440,
-      "2025-07-31": 1440
+      "2025-08-01": 1440
     }
   },
   {
@@ -1018,15 +1016,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/geog.uk.ico",
     "slug": "geog-uk-homepage",
     "status": "up",
-    "uptime": "30.99%",
+    "uptime": "31.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "23.24%",
-    "time": 123,
-    "timeDay": 265,
-    "timeWeek": 177,
-    "timeMonth": 147,
+    "uptimeYear": "23.52%",
+    "time": 122,
+    "timeDay": 68,
+    "timeWeek": 176,
+    "timeMonth": 144,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2026-05-06": 375,
@@ -1307,8 +1305,7 @@
       "2025-08-04": 1440,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
-      "2025-08-01": 1440,
-      "2025-07-31": 1440
+      "2025-08-01": 1440
     }
   },
   {
@@ -1317,15 +1314,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/oling.dev.ico",
     "slug": "oling-dev-homepage",
     "status": "up",
-    "uptime": "19.61%",
+    "uptime": "19.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "23.24%",
+    "uptimeYear": "23.52%",
     "time": 154,
-    "timeDay": 1045,
-    "timeWeek": 373,
-    "timeMonth": 235,
+    "timeDay": 173,
+    "timeWeek": 363,
+    "timeMonth": 233,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2026-05-06": 375,
@@ -1606,8 +1603,7 @@
       "2025-08-04": 1440,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
-      "2025-08-01": 1440,
-      "2025-07-31": 1440
+      "2025-08-01": 1440
     }
   }
 ]
