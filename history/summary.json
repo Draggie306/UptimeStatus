@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 169,
-    "timeDay": 568,
-    "timeWeek": 661,
-    "timeMonth": 310,
-    "timeYear": 162,
+    "time": 170,
+    "timeDay": 533,
+    "timeWeek": 624,
+    "timeMonth": 322,
+    "timeYear": 163,
     "dailyMinutesDown": {
       "2025-11-18": 163
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 188,
-    "timeDay": 205,
-    "timeWeek": 198,
+    "timeDay": 207,
+    "timeWeek": 206,
     "timeMonth": 193,
     "timeYear": 164,
     "dailyMinutesDown": {
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 211,
-    "timeDay": 284,
-    "timeWeek": 265,
-    "timeMonth": 288,
+    "timeDay": 238,
+    "timeWeek": 272,
+    "timeMonth": 290,
     "timeYear": 195,
     "dailyMinutesDown": {
       "2025-11-18": 189,
@@ -78,7 +78,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-23": 187,
+      "2026-10-24": 183,
+      "2026-10-23": 1440,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
@@ -441,8 +442,7 @@
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
-      "2025-10-25": 1440,
-      "2025-10-24": 1440
+      "2025-10-25": 1440
     }
   },
   {
@@ -451,15 +451,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/brigaders-stats.ibaguette.com.ico",
     "slug": "baguette-brigade-helper-bot",
     "status": "up",
-    "uptime": "57.51%",
+    "uptime": "57.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.05%",
     "uptimeMonth": "97.29%",
-    "uptimeYear": "81.56%",
+    "uptimeYear": "81.83%",
     "time": 372,
-    "timeDay": 302,
-    "timeWeek": 163,
-    "timeMonth": 366,
+    "timeDay": 216,
+    "timeWeek": 164,
+    "timeMonth": 356,
     "timeYear": 372,
     "dailyMinutesDown": {
       "2025-12-03": 715,
@@ -502,7 +502,6 @@
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
-      "2025-10-24": 1440,
       "2026-02-11": 45,
       "2026-02-27": 389,
       "2026-03-07": 25,
@@ -563,10 +562,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 199,
-    "timeDay": 383,
-    "timeWeek": 231,
-    "timeMonth": 216,
-    "timeYear": 193,
+    "timeDay": 180,
+    "timeWeek": 235,
+    "timeMonth": 215,
+    "timeYear": 194,
     "dailyMinutesDown": {
       "2025-11-18": 163
     }
@@ -577,16 +576,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/client.draggie.games.ico",
     "slug": "draggie-games-authentication-services",
     "status": "up",
-    "uptime": "90.64%",
+    "uptime": "90.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.06%",
     "uptimeMonth": "97.29%",
     "uptimeYear": "92.10%",
     "time": 579,
-    "timeDay": 709,
-    "timeWeek": 376,
-    "timeMonth": 532,
-    "timeYear": 556,
+    "timeDay": 796,
+    "timeWeek": 384,
+    "timeMonth": 538,
+    "timeYear": 557,
     "dailyMinutesDown": {
       "2025-11-07": 1350,
       "2025-11-06": 89,
@@ -656,9 +655,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 263,
-    "timeDay": 269,
-    "timeWeek": 274,
-    "timeMonth": 350,
+    "timeDay": 436,
+    "timeWeek": 296,
+    "timeMonth": 341,
     "timeYear": 247,
     "dailyMinutesDown": {
       "2025-11-18": 180
@@ -676,9 +675,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 432,
-    "timeDay": 563,
-    "timeWeek": 487,
-    "timeMonth": 548,
+    "timeDay": 351,
+    "timeWeek": 493,
+    "timeMonth": 542,
     "timeYear": 427,
     "dailyMinutesDown": {
       "2025-11-18": 184
@@ -690,16 +689,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/geog.uk.ico",
     "slug": "geog-uk-homepage",
     "status": "up",
-    "uptime": "42.33%",
+    "uptime": "42.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "46.54%",
-    "time": 133,
-    "timeDay": 310,
-    "timeWeek": 212,
-    "timeMonth": 183,
-    "timeYear": 140,
+    "uptimeYear": "46.81%",
+    "time": 134,
+    "timeDay": 197,
+    "timeWeek": 217,
+    "timeMonth": 184,
+    "timeYear": 141,
     "dailyMinutesDown": {
       "2026-05-06": 375,
       "2026-05-05": 1440,
@@ -894,8 +893,7 @@
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
-      "2025-10-25": 1440,
-      "2025-10-24": 1440
+      "2025-10-25": 1440
     }
   },
   {
@@ -904,16 +902,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/geog.uk.ico",
     "slug": "geog-uk-homepage",
     "status": "up",
-    "uptime": "42.33%",
+    "uptime": "42.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "46.54%",
-    "time": 133,
-    "timeDay": 310,
-    "timeWeek": 212,
-    "timeMonth": 183,
-    "timeYear": 140,
+    "uptimeYear": "46.81%",
+    "time": 134,
+    "timeDay": 197,
+    "timeWeek": 217,
+    "timeMonth": 184,
+    "timeYear": 141,
     "dailyMinutesDown": {
       "2026-05-06": 375,
       "2026-05-05": 1440,
@@ -1108,8 +1106,7 @@
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
-      "2025-10-25": 1440,
-      "2025-10-24": 1440
+      "2025-10-25": 1440
     }
   },
   {
@@ -1118,16 +1115,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/oling.dev.ico",
     "slug": "oling-dev-homepage",
     "status": "up",
-    "uptime": "32.82%",
+    "uptime": "32.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "46.54%",
+    "uptimeYear": "46.81%",
     "time": 195,
-    "timeDay": 683,
-    "timeWeek": 796,
-    "timeMonth": 454,
-    "timeYear": 208,
+    "timeDay": 527,
+    "timeWeek": 453,
+    "timeMonth": 460,
+    "timeYear": 209,
     "dailyMinutesDown": {
       "2026-05-06": 375,
       "2026-05-05": 1440,
@@ -1322,8 +1319,7 @@
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
-      "2025-10-25": 1440,
-      "2025-10-24": 1440
+      "2025-10-25": 1440
     }
   }
 ]
