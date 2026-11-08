@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 180,
-    "timeDay": 569,
-    "timeWeek": 549,
-    "timeMonth": 504,
+    "time": 181,
+    "timeDay": 490,
+    "timeWeek": 557,
+    "timeMonth": 516,
     "timeYear": 180,
     "dailyMinutesDown": {
       "2025-11-18": 163
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 189,
-    "timeDay": 200,
-    "timeWeek": 200,
+    "timeDay": 161,
+    "timeWeek": 195,
     "timeMonth": 202,
     "timeYear": 164,
     "dailyMinutesDown": {
@@ -52,8 +52,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 214,
-    "timeDay": 394,
-    "timeWeek": 281,
+    "timeDay": 205,
+    "timeWeek": 275,
     "timeMonth": 301,
     "timeYear": 200,
     "dailyMinutesDown": {
@@ -78,7 +78,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-07": 263,
+      "2026-11-08": 245,
+      "2026-11-07": 1440,
       "2026-11-06": 1440,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
@@ -441,8 +442,7 @@
       "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
-      "2025-11-09": 1440,
-      "2025-11-08": 1440
+      "2025-11-09": 1440
     }
   },
   {
@@ -451,15 +451,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/brigaders-stats.ibaguette.com.ico",
     "slug": "baguette-brigade-helper-bot",
     "status": "up",
-    "uptime": "58.71%",
+    "uptime": "58.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.94%",
-    "uptimeYear": "85.68%",
+    "uptimeYear": "85.95%",
     "time": 367,
-    "timeDay": 336,
-    "timeWeek": 223,
-    "timeMonth": 252,
+    "timeDay": 316,
+    "timeWeek": 236,
+    "timeMonth": 250,
     "timeYear": 367,
     "dailyMinutesDown": {
       "2025-12-03": 715,
@@ -487,7 +487,6 @@
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
-      "2025-11-08": 1440,
       "2026-02-11": 45,
       "2026-02-27": 389,
       "2026-03-07": 25,
@@ -547,10 +546,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 201,
-    "timeDay": 186,
-    "timeWeek": 204,
-    "timeMonth": 238,
+    "time": 202,
+    "timeDay": 336,
+    "timeWeek": 228,
+    "timeMonth": 244,
     "timeYear": 195,
     "dailyMinutesDown": {
       "2025-11-18": 163
@@ -562,16 +561,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/client.draggie.games.ico",
     "slug": "draggie-games-authentication-services",
     "status": "up",
-    "uptime": "90.90%",
+    "uptime": "90.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.94%",
-    "uptimeYear": "92.17%",
+    "uptimeYear": "92.37%",
     "time": 571,
-    "timeDay": 596,
-    "timeWeek": 549,
-    "timeMonth": 524,
-    "timeYear": 554,
+    "timeDay": 583,
+    "timeWeek": 563,
+    "timeMonth": 526,
+    "timeYear": 553,
     "dailyMinutesDown": {
       "2025-11-11": 51,
       "2025-11-12": 24,
@@ -638,10 +637,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 264,
-    "timeDay": 250,
-    "timeWeek": 274,
-    "timeMonth": 307,
+    "time": 263,
+    "timeDay": 125,
+    "timeWeek": 272,
+    "timeMonth": 298,
     "timeYear": 246,
     "dailyMinutesDown": {
       "2025-11-18": 180
@@ -658,11 +657,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 431,
-    "timeDay": 409,
-    "timeWeek": 482,
-    "timeMonth": 512,
-    "timeYear": 425,
+    "time": 432,
+    "timeDay": 381,
+    "timeWeek": 487,
+    "timeMonth": 499,
+    "timeYear": 424,
     "dailyMinutesDown": {
       "2025-11-18": 184
     }
@@ -673,14 +672,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/geog.uk.ico",
     "slug": "geog-uk-homepage",
     "status": "up",
-    "uptime": "43.96%",
+    "uptime": "44.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "50.66%",
+    "uptimeYear": "50.93%",
     "time": 137,
-    "timeDay": 135,
-    "timeWeek": 166,
+    "timeDay": 130,
+    "timeWeek": 153,
     "timeMonth": 189,
     "timeYear": 144,
     "dailyMinutesDown": {
@@ -862,8 +861,7 @@
       "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
-      "2025-11-09": 1440,
-      "2025-11-08": 1440
+      "2025-11-09": 1440
     }
   },
   {
@@ -872,14 +870,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/geog.uk.ico",
     "slug": "geog-uk-homepage",
     "status": "up",
-    "uptime": "43.96%",
+    "uptime": "44.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "50.66%",
+    "uptimeYear": "50.93%",
     "time": 137,
-    "timeDay": 135,
-    "timeWeek": 166,
+    "timeDay": 130,
+    "timeWeek": 153,
     "timeMonth": 189,
     "timeYear": 144,
     "dailyMinutesDown": {
@@ -1061,8 +1059,7 @@
       "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
-      "2025-11-09": 1440,
-      "2025-11-08": 1440
+      "2025-11-09": 1440
     }
   },
   {
@@ -1071,16 +1068,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/oling.dev.ico",
     "slug": "oling-dev-homepage",
     "status": "up",
-    "uptime": "34.71%",
+    "uptime": "34.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "50.66%",
+    "uptimeYear": "50.93%",
     "time": 201,
-    "timeDay": 229,
-    "timeWeek": 338,
-    "timeMonth": 460,
-    "timeYear": 216,
+    "timeDay": 374,
+    "timeWeek": 337,
+    "timeMonth": 465,
+    "timeYear": 217,
     "dailyMinutesDown": {
       "2026-05-06": 375,
       "2026-05-05": 1440,
@@ -1260,8 +1257,7 @@
       "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
-      "2025-11-09": 1440,
-      "2025-11-08": 1440
+      "2025-11-09": 1440
     }
   }
 ]
